@@ -7,7 +7,8 @@ Inicialmente, o trabalho foi realizado em um arquivo onde foram descritos os req
 
 O link a seguir é para o arquivo que criei e no qual foram baseados os testes.
 
-<a href = "https://docs.google.com/document/d/15BuEm74gAS1CvOhgWdyCKopvZFFtpEQpmMYIqTyTTa8/edit?usp=sharing" >
+https://docs.google.com/document/d/15BuEm74gAS1CvOhgWdyCKopvZFFtpEQpmMYIqTyTTa8/edit?usp=sharing
+```
 
 ## :wrench: Tecnologias utilizadas
 * Cucumber.js;
