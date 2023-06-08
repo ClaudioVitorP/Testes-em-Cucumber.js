@@ -5,7 +5,9 @@ Desafio da Fullture School: Realizar um teste de arquivo para uma aplicação de
 
 Inicialmente, o trabalho foi realizado em um arquivo onde foram descritos os requisitos que seriam avaliados e testados. Posteriormente, foi feita a simulação em um ambiente de teste de algumas funcionalidades de segurança do elevador.
 
-[O link a seguir é para o arquivo que criei e no qual foram baseados os testes.](https://docs.google.com/document/d/15BuEm74gAS1CvOhgWdyCKopvZFFtpEQpmMYIqTyTTa8/edit?usp=sharing){target="_blank"}
+O link a seguir é para o arquivo que criei e no qual foram baseados os testes.
+
+<a href = "https://docs.google.com/document/d/15BuEm74gAS1CvOhgWdyCKopvZFFtpEQpmMYIqTyTTa8/edit?usp=sharing" >
 
 ## :wrench: Tecnologias utilizadas
 * Cucumber.js;
